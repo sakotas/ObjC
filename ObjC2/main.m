@@ -15,6 +15,8 @@ int main(int argc, char * argv[]) {
     int result = 5 + 7;
     NSLog(@"%i", result);
     
+    NSLog(@"Say goodbye please");
+    
     @autoreleasepool {
         return UIApplicationMain(argc, argv, nil, NSStringFromClass([AppDelegate class]));
     }
