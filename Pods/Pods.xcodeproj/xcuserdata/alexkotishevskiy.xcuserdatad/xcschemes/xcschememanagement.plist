@@ -14,15 +14,25 @@
 			<key>isShown</key>
 			<false/>
 		</dict>
+		<key>UITableView+FDTemplateLayoutCell.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>39ED610844DA31D9C2A78F51710EEC28</key>
+		<key>29F6951DF978FD23566C37F243F590C8</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>51C9F35D0A3700BB13CE8814ADC1DB1E</key>
+		<key>5B858EAF0C8D1C878D7972792B245DE8</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>E03DF193EEACD855A0CBCF878A451CEF</key>
 		<dict>
 			<key>primary</key>
 			<true/>
